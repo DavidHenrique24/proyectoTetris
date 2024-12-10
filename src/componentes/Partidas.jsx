@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 const Partidas = () => {
-  const partidas = useState([
+  const [partidas] = useState([
     { id: 1, nick: 'Jugador1', puntos: 1200, fecha: '2024-12-01' },
     { id: 2, nick: 'Jugador2', puntos: 1500, fecha: '2024-12-02' },
     { id: 3, nick: 'Jugador3', puntos: 980, fecha: '2024-12-03' },
@@ -35,4 +35,3 @@ const Partidas = () => {
 };
 
 export default Partidas;
-
