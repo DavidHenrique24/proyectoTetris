@@ -1,15 +1,14 @@
+import React from 'react';
+import Partidas from './componentes/Partidas';
 
-import './App.css'
 
-function App() {
-
+const App = () => {
   return (
     <>
-    <h1>hola</h1>
-    
-      
+      <h1>Bienvenido a tetris</h1>
+      <Partidas />
     </>
-  )
-}
+  );
+};
 
-export default App
+export default App;
