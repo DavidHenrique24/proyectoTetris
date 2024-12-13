@@ -1,5 +1,5 @@
 import React from 'react';
-import Partidas from './componentes/Partidas';
+import Partidas from './componentes/Partidas.jsx';
 
 
 const App = () => {
