@@ -13,6 +13,7 @@ const App = () => {
           rel="stylesheet"
           integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9"
           crossOrigin="anonymous"
+
           
         />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
